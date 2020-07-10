@@ -1,1 +1,3 @@
 filename: single-config-server-dev
+test:
+  filename: single-config-server-dev
